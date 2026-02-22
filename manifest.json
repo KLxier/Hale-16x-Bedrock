@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "",
+        "name": "Hale 16x",
+        "uuid": "d9b1c8e7-5c3a-4f0e-9c8e-2b1a1c8e7d9b",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "No Descriptions.",
+            "type": "resources",
+            "uuid": "e7d9b1c8-5c3a-4f0e-9c8e-2b1a1c8e7d9b",
+            "version": [0, 0, 1]
+        }
+    ]
+}
