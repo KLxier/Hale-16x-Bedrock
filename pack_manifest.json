@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "",
+    "name": "Hale 16x",
+    "packs_version": "0.0.1",
+    "description": "resourcePack.vanilla.description",
+    "modules": [
+      {
+        "description": "No Descriptions.",
+        "version": "0.0.1",
+        "uuid": "e7d9b1c8-5c3a-4f0e-9c8e-2b1a1c8e7d9b",
+        "type": "resources"
+      }
+    ]
+  }
+}
